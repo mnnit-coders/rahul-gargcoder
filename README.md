@@ -2,6 +2,7 @@
 <h1>I am Rahul Garg</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=rahul-gargcoder&show_icons=true&theme=dracula&count_private=true&card_width=300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gargcoder&theme=cobalt&langs_count=8&layout=compact&card_width=400"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=rahul-gargcoder&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 <h3>🎮</g-emoji>Version Control</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>

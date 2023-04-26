@@ -1,7 +1,7 @@
 
 <h1>Hi,I am Rahul Garg</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="https://github-readme-stats.vercel.app/api?username=rahul-gargcoder&show_icons=true&theme=dracula&count_private=true&card_width=300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gargcoder&theme=cobalt&langs_count=8&layout=compact&card_width=400"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahul-gargcoder&show_icons=true&theme=dracula&count_private=true&card_width=300"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahul-gargcoder&theme=cobalt&langs_count=8&layout=compact&card_width=400"/>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=rahul-gargcoder&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 <h3>🎮</g-emoji>Version Control</h3>
 <p>
